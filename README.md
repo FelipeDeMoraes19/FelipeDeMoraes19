@@ -32,7 +32,7 @@
 
 - **[Project SpringBoot JPA](https://github.com/FelipeDeMoraes19/project-springboot-jpa)**: A web application demonstrating the use of Spring Boot and JPA for efficient data handling and backend operations.
 
-- **[Generate Password](https://github.com/FelipeDeMoraes19/Generate_Password)**: This project focuses on creating a secure and reliable password generator, enhancing user security across various platforms.
+- **[Calculator Project](https://github.com/FelipeDeMoraes19/Calculator-Project)**: A sophisticated React-based web calculator designed to perform basic arithmetic operations with an elegant and responsive user interface. This project showcases advanced state management techniques and effective UI component structuring.
 
 ## 🌐 Social media
 
