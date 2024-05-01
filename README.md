@@ -1,46 +1,47 @@
-# Hello, I'm Felipe Moraes! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Felipe de Moraes
+=====================================================================================================================================
+Full Stack developer
+--------------------
+Computer Science Student
 
-<div align="center">
-    <p>I'm a software developer and technology enthusiast, located in Brazil <img height="17" width="17" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1280px-Flag_of_Brazil.svg.png">.</p>
+🌍  I'm based in Recife - Brasil
+* ✉️  You can contact me at [moorraes16@gmail.com](mailto:moorraes16@gmail.com)
+* 🧠  I'm learning React, Python, and Java.
 
-## 📈 GitHub Stats
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=react,python,java,html,css,js)](https://skillicons.dev)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeDeMoraes19&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&langs_count=16&theme=great-gatsby"/>
-<p>🛑"Most Used Languages" is just a metric of the languages present in my public code and does not reflect experience or skill level. 🛑</p>
-</div>
+### Socials:
 
-<br/>
-
-## 🛠️ Technologies and Tools
-
-<p align="center">
- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript"/>
- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
- <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python"/>
+<p align="left">
+  <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.github.com/FelipeDeMoraes19" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-moraes-48249026b" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
 </p>
 
-### Frameworks and Other Technologies
+### Badges:
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/FelipeDeMoraes19"><img src="https://github-readme-stats.vercel.app/api?username=FelipeDeMoraes19&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FelipeDeMoraes19's GitHub stats" /></a>
+
+<a href="https://github.com/FelipeDeMoraes19"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeDeMoraes19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/FelipeDeMoraes19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+
+### Featured Projects 🚀
 
 <p align="center">
- <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  <a href="https://github.com/FelipeDeMoraes19/project-springboot-jpa">
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=project-springboot-jpa&theme=gruvbox"/>
+  </a>
+  <a href="https://github.com/FelipeDeMoraes19/Calculator-Project">
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Calculator-Project&theme=gruvbox"/>
+  </a>
 </p>
-
-## 🔥 Featured Projects
-
-- **[Project SpringBoot JPA](https://github.com/FelipeDeMoraes19/project-springboot-jpa)**: A web application demonstrating the use of Spring Boot and JPA for efficient data handling and backend operations.
-
-- **[Calculator Project](https://github.com/FelipeDeMoraes19/Calculator-Project)**: A sophisticated React-based web calculator designed to perform basic arithmetic operations with an elegant and responsive user interface. This project showcases advanced state management techniques and effective UI component structuring.
-
-## 🌐 Social media
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/felipe-moraes-48249026b/">
-        <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-    </a>
-</div>
-
----
-Thanks for stopping by and feel free to connect with me!
