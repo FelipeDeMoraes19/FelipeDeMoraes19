@@ -41,4 +41,7 @@ Computer Science Student
   <a href="https://github.com/FelipeDeMoraes19/Calculator-Project">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Calculator-Project&theme=gruvbox"/>
   </a>
+<a href="https://github.com/FelipeDeMoraes19/employee-hub">
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=employee-hub&theme=gruvbox"/>
+  </a>
 </p>
