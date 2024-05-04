@@ -32,6 +32,8 @@ Computer Science Student
 
 <a href="https://github.com/FelipeDeMoraes19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
+🛑 Top Lenguages are just a metric of the languages my public code consists of and do not reflect experience or skill level 🛑
+
 ### Featured Projects 🚀
 
 <p align="center">
