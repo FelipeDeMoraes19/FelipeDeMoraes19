@@ -34,11 +34,11 @@ Computer Science Student
 
 🛑 Top Lenguages are just a metric of the languages my public code consists of and do not reflect experience or skill level 🛑
 
-### Featured Projects 🚀
+### Main projects 🚀
 
 <p align="center">
-  <a href="https://github.com/FelipeDeMoraes19/project-springboot-jpa">
-    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=project-springboot-jpa&theme=gruvbox"/>
+  <a href="https://github.com/FelipeDeMoraes19/task-automation">
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=task-automation&theme=gruvbox"/>
   </a>
   <a href="https://github.com/FelipeDeMoraes19/Calculator-Project">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Calculator-Project&theme=gruvbox"/>
