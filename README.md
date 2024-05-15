@@ -7,6 +7,7 @@ Computer Science Student
 🌍  I'm based in Recife - Brasil
 * ✉️  You can contact me at [moorraes16@gmail.com](mailto:moorraes16@gmail.com)
 * 🧠  I'm learning React, Python, and Java.
+* 🚀  [My Portfolio](https://github.com/FelipeDeMoraes19/portfolio)
 
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,python,java,html,css,js)](https://skillicons.dev)
