@@ -18,7 +18,7 @@ Computer Science Student
   <a href="https://www.github.com/FelipeDeMoraes19" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <a href="https:/www.linkedin.com/in/felipe-de-moraes-48249026b" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/felipe-de-moraes-48249026b" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
 </p>
@@ -33,7 +33,7 @@ Computer Science Student
 
 <a href="https://github.com/FelipeDeMoraes19" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
-🛑 Top Lenguages are just a metric of the languages my public code consists of and do not reflect experience or skill level 🛑
+🛑 Top Languages are just a metric of the languages my public code consists of and do not reflect experience or skill level 🛑
 
 ### Main projects 🚀
 
@@ -44,7 +44,7 @@ Computer Science Student
   <a href="https://github.com/FelipeDeMoraes19/Calculator-Project">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Calculator-Project&theme=gruvbox"/>
   </a>
-<a href="https://github.com/FelipeDeMoraes19/employee-hub">
+  <a href="https://github.com/FelipeDeMoraes19/employee-hub">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=employee-hub&theme=gruvbox"/>
   </a>
 </p>
