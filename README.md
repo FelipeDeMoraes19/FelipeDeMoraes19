@@ -10,7 +10,7 @@ Computer Science Student
 * 🚀  [My Portfolio](https://github.com/FelipeDeMoraes19/portfolio)
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=react,python,java,html,css,js,mysql,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,python,java,html,css,js,mysql,figma,typescript)](https://skillicons.dev)
 
 ### Socials:
 
