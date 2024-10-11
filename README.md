@@ -94,6 +94,11 @@ const felipeMoraes = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&langs_count=7&theme=gruvbox"/>
 </a>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeDeMoraes19&bg_color=000000" alt="GitHub Activity Graph" />
+</div>
+
+
 <p></p>
 
 🛑 ***Most Used Languages*** are just a metric of the languages my public code consists of and ***do not*** reflect experience or skill level 🛑
