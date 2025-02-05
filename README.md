@@ -113,6 +113,5 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moorraes16@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeDeMoraes19)
 
-[![Visitas](https://komarev.com/ghpvc/?username=FelipeDeMoraes19&color=689d6a&style=flat)](https://github.com/FelipeDeMoraes19)
 
 </div>
