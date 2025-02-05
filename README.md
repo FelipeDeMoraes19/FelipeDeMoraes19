@@ -61,7 +61,7 @@ const felipeMoraes = {
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FelipeDeMoraes19&title=Stars,Commit,Repositories&column=3&margin-w=83&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FelipeDeMoraes19&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FelipeDeMoraes19&theme=gruvbox)](https://git.io/streak-stats)
 
 [![Linkedin: FelipeDeMoraes19](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-de-moraes-48249026b/)](https://www.linkedin.com/in/felipe-de-moraes-48249026b/)
 
