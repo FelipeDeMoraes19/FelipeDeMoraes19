@@ -61,7 +61,7 @@
   
 [![My Skills](https://skillicons.dev/icons?i=py,react,js,ts,mysql,aws,git,github,idea,vscode)](https://skillicons.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FelipeDeMoraes19&theme=gruvbox&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FelipeDeMoraes19&theme=gruvbox&title=Commits,Followers,Repositories,Experience&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=FelipeDeMoraes19&theme=gruvbox&fire=689D6A&currStreakNum=689D6A)](https://git.io/streak-stats)
 
