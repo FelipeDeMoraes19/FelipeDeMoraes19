@@ -11,13 +11,15 @@
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-Advanced-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Advanced-1572B6?logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-Intermediate-61DAFB?logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Beginner-2496ED?logo=docker&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-2496ED?logo=typescript&logoColor=white)
+
 
 </div>
 
@@ -59,7 +61,6 @@
 ## 🏆 Destaques
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=py,react,js,ts,mysql,aws,git,github,idea,vscode)](https://skillicons.dev)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FelipeDeMoraes19&theme=gruvbox&title=Commits,Followers,Repositories,Experience&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
