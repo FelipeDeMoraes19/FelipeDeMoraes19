@@ -75,7 +75,7 @@
   
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| [Calculator Project](https://github.com/FelipeDeMoraes19/Calculator-Project) | A simple, interactive calculator built using React, designed for efficient arithmetic operations. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3) |
+| [Suport-System](https://github.com/FelipeDeMoraes19/Suport-System) | Support ticket management system with user authentication, change history and integrated chat. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3) |
 | [Task Automation](https://github.com/FelipeDeMoraes19/task-automation) | This project uses PyAutoGUI to automate GUI interactions, simplifying tasks like web form data entry. Features include browser automation, automatic logins, and CSV data processing. Additionally, it offers a tool to capture and display cursor positions. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python) |
 | [Employee Hub](https://github.com/FelipeDeMoraes19/employee-hub) | This is an employee management application developed in React. The project was created using Create React App and aims to simplify team organization and management by allowing users to view, add, edit, and remove employee information. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3) |
 
