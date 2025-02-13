@@ -89,10 +89,11 @@
 <summary>Clique para expandir</summary>
 
 <div align="center">
-  
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeDeMoraes19&show_icons=true&theme=gruvbox&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=gruvbox&langs_count=6)
+<div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=gruvbox&langs_count=6" alt="Top Languages" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/FelipeDeMoraes19?theme=gruvbox&cardType=github" alt="Awesome Stats" />
+</div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDeMoraes19&theme=react-dark&hide_border=true&area=true&color=689D6A)
 
@@ -105,7 +106,6 @@
 </div>
 
 </details>
-
 
 <div align="center">
   
