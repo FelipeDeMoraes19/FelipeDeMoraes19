@@ -61,9 +61,9 @@
 ## 🏆 Destaques
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=FelipeDeMoraes19&theme=gruvbox&title=Commits,Followers,Repositories,Experience&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FelipeDeMoraes19&theme=radical&title=Commits,Followers,Repositories,Experience&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FelipeDeMoraes19&theme=gruvbox&fire=689D6A&currStreakNum=689D6A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FelipeDeMoraes19&theme=radical&fire=689D6A&currStreakNum=689D6A)](https://git.io/streak-stats)
 
 </div>
 
@@ -74,10 +74,10 @@
 
   <!-- Cards usando GitHub Readme Stats -->
   <p align="left">
-    <a href="https://github.com/FelipeDeMoraes19/DockerMonitor"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=DockerMonitor&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="DockerMonitor"></a>
-    <a href="https://github.com/FelipeDeMoraes19/Suport-System"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Suport-System&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="Suport-System"></a>
-    <a href="https://github.com/FelipeDeMoraes19/task-automation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=task-automation&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="task-automation"></a>
-    <a href="https://github.com/FelipeDeMoraes19/employee-hub"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=employee-hub&theme=gruvbox&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="employee-hub"></a>
+    <a href="https://github.com/FelipeDeMoraes19/DockerMonitor"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=DockerMonitor&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="DockerMonitor"></a>
+    <a href="https://github.com/FelipeDeMoraes19/Suport-System"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Suport-System&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="Suport-System"></a>
+    <a href="https://github.com/FelipeDeMoraes19/task-automation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=task-automation&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="task-automation"></a>
+    <a href="https://github.com/FelipeDeMoraes19/employee-hub"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=employee-hub&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="employee-hub"></a>
   </p>
 
   <a href="https://github.com/FelipeDeMoraes19?tab=repositories&sort=stargazers"><img alt="Todos Repositórios" title="Ver todos os projetos" src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20Projetos-689D6A?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -93,8 +93,8 @@
 <div align="center">
 
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=gruvbox&langs_count=6" alt="Top Languages" />
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/FelipeDeMoraes19?theme=gruvbox&cardType=github" alt="Awesome Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/FelipeDeMoraes19?theme=radical&cardType=github" alt="Awesome Stats" />
 </div>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDeMoraes19&theme=react-dark&hide_border=true&area=true&color=689D6A)
