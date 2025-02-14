@@ -27,7 +27,7 @@
 
 ### 📍 Baseado em Recife, Brasil  
 ✉️ Contato: [moorraes16@gmail.com](mailto:moorraes16@gmail.com)  
-📄 [Baixar Currículo](https://drive.google.com/uc?export=download&id=10CUYJ4SnwPvCivkzdVge_4W6PZS4ApfT)  
+📄 [Baixar Currículo](https://drive.google.com/file/d/1vC9mcA0-iw0_S2aedeiJwGTUPg-4oBAJ/view?usp=drive_link)  
 🚀 Portfólio: [github.com/FelipeDeMoraes19/portfolio](https://github.com/FelipeDeMoraes19/portfolio)  
 🧠 Atualmente aprendendo: React, Python e MySQL  
 
