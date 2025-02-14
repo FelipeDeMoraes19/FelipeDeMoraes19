@@ -1,10 +1,10 @@
 <h1 align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689D6A&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Felipe+de+Moraes;Data+Science+%26+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5370&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Felipe+de+Moraes;Data+Science+%26+Full+Stack+Developer;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=689D6A&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FF5370&center=true&vCenter=true&width=435&lines=Computer+Science+Student;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
