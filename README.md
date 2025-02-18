@@ -8,6 +8,8 @@
   </a>
 </p>
 
+<div align="center"><img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif"></img></div>
+
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-Intermediate-ED8B00?logo=openjdk&logoColor=white)
@@ -25,11 +27,11 @@
 
 ---
 
-### 📍 Baseado em Recife, Brasil  
-✉️ Contato: [moorraes16@gmail.com](mailto:moorraes16@gmail.com)  
-📄 [Baixar Currículo](https://drive.google.com/file/d/1vC9mcA0-iw0_S2aedeiJwGTUPg-4oBAJ/view?usp=drive_link)  
-🚀 Portfólio: [github.com/FelipeDeMoraes19/portfolio](https://github.com/FelipeDeMoraes19/portfolio)  
-🧠 Atualmente aprendendo: React, Python e MySQL  
+### 📍 Based in Recife, Brazil 
+✉️ Contact: [moorraes16@gmail.com](mailto:moorraes16@gmail.com)  
+📄 [Download Resume](https://drive.google.com/file/d/1vC9mcA0-iw0_S2aedeiJwGTUPg-4oBAJ/view?usp=drive_link)  
+🚀 Portfolio: [github.com/FelipeDeMoraes19/portfolio](https://github.com/FelipeDeMoraes19/portfolio)  
+🧠Currently learning: React, Python, and MySQL  
 
 ---
 
@@ -58,7 +60,7 @@
 
 --- 
 
-## 🏆 Destaques
+## 🏆 Achievements
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=FelipeDeMoraes19&theme=radical&title=Commits,Followers,Repositories,Experience&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
@@ -70,7 +72,7 @@
 ---
 
 <details open> 
-  <summary><h2>🚀 Meus Principais Projetos</h2></summary>
+  <summary><h2>🚀 Featured Projects</h2></summary>
 
   <!-- Cards usando GitHub Readme Stats -->
   <p align="left">
@@ -85,19 +87,35 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <details>
-<summary>Clique para expandir</summary>
+<summary>📌 Click to expand</summary>
 
 <div align="center">
 
+### 🔹 Key Stats
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/FelipeDeMoraes19?theme=radical&cardType=github" alt="Awesome Stats" />
+  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=radical&langs_count=6)
+![Estatísticas GitHub](https://awesome-github-stats.azurewebsites.net/user-stats/FelipeDeMoraes19?theme=radical&cardType=github)
+
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDeMoraes19&theme=react-dark&hide_border=true&area=true&color=689D6A)
+---
+
+### 📌 Language Distribution
+
+![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FelipeDeMoraes19&theme=radical)
+![Linguagem Mais Usada por Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FelipeDeMoraes19&theme=radical)
+
+---
+
+### 🚀 Recent Activity
+
+![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDeMoraes19&theme=react-dark&hide_border=true&area=true&color=689D6A)
+
+---
 
 <div align="center" style="margin: 2rem 0; padding: 1rem; background: #1d2021; border-radius: 8px; border: 1px solid #689d6a">
   <strong>🛑 NOTA IMPORTANTE:</strong><br>
@@ -108,6 +126,7 @@
 </div>
 
 </details>
+
 
 <div align="center">
   
