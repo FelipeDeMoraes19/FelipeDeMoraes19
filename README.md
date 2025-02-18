@@ -118,9 +118,7 @@
 ---
 
 <div align="center" style="margin: 2rem 0; padding: 1rem; background: #1d2021; border-radius: 8px; border: 1px solid #689d6a">
-  <strong>🛑 NOTA IMPORTANTE:</strong><br>
-  <em>"Most Used Languages" são apenas uma métrica das linguagens presentes<br> 
-  no meu código público e não refletem experiência ou nível de habilidade 🛑</em>
+  <em>🛑 "Most Used Languages" are just a metric of the languages present in my public code and do not reflect experience or skill level 🛑 </em>
 </div>
 
 </div>
