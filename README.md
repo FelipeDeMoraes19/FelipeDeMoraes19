@@ -74,12 +74,11 @@
 <details open> 
   <summary><h2>🚀 Featured Projects</h2></summary>
 
-  <!-- Cards usando GitHub Readme Stats -->
   <p align="left">
-    <a href="https://github.com/FelipeDeMoraes19/DockerMonitor"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=DockerMonitor&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="DockerMonitor"></a>
+    <a href="https://github.com/FelipeDeMoraes19/project-dio.me"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=project-dio.me&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="project-dio.me"></a>
     <a href="https://github.com/FelipeDeMoraes19/Suport-System"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Suport-System&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="Suport-System"></a>
-    <a href="https://github.com/FelipeDeMoraes19/task-automation"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=task-automation&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="task-automation"></a>
-    <a href="https://github.com/FelipeDeMoraes19/employee-hub"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=employee-hub&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="employee-hub"></a>
+    <a href="https://github.com/FelipeDeMoraes19/DevHelperBot"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=DevHelperBot&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="DevHelperBot"></a>
+    <a href="https://github.com/FelipeDeMoraes19/Task-Board"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=FelipeDeMoraes19&repo=Task-Board&theme=radical&hide_border=true&bg_color=1d2021&title_color=689D6A&icon_color=fe8019&show_icons=true" alt="Task-Board"></a>
   </p>
 
   <a href="https://github.com/FelipeDeMoraes19?tab=repositories&sort=stargazers"><img alt="Todos Repositórios" title="Ver todos os projetos" src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20Projetos-689D6A?style=for-the-badge&logoColor=white&logo=repo"/></a>
