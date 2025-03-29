@@ -96,7 +96,7 @@
 ### 🔹 Key Stats
 <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
   
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=radical&langs_count=6)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDeMoraes19&layout=compact&theme=radical)
 ![Estatísticas GitHub](https://awesome-github-stats.azurewebsites.net/user-stats/FelipeDeMoraes19?theme=radical&cardType=rank)
 
 </div>
