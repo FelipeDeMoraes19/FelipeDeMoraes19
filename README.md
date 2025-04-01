@@ -29,7 +29,7 @@
 
 ### 📍 Based in Recife, Brazil 
 ✉️ Contact: [moorraes16@gmail.com](mailto:moorraes16@gmail.com)  
-📄 [Download Resume](https://drive.google.com/file/d/1vC9mcA0-iw0_S2aedeiJwGTUPg-4oBAJ/view?usp=drive_link)  
+📄 [Download Resume](https://drive.google.com/file/d/1kIUCJkJP5f1FZLq4g4SXVucgf5TFB6TW/view?usp=drive_link)  
 🚀 Portfolio: [github.com/FelipeDeMoraes19/portfolio](https://github.com/FelipeDeMoraes19/portfolio)  
 🧠Currently learning: React, Python, and MySQL  
 
